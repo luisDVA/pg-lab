@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "maevolabMX"
+  favicon: favicon.png
+  repo-url: https://github.com/luisdva/maevolabMX
+  site-url: https://luisdva.github.io/maevolabMX
+format:
+  html:
+    theme:
+      light:
+        - cosmo
+        - brand
+      dark:
+        - darkly
+        - brand
+    css: styles.css
+    toc: true
+
+
+
+
+babelquarto:
+  icon: "bi bi-flag"
+  languagelinks: navbar
+  languagecodes:
+  - name: en
+    text: "English"
+  - name: es
+    text: "Español"
+  mainlanguage: 'es'
+  languages: ['en']
+title-en: "maevolabMX"
+description-en: description in en
+author-en: author in en
+lang: es

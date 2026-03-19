@@ -1,0 +1,166 @@
+---
+pagetitle: "maevolabMX"
+page-layout: custom
+toc: false
+---
+
+::: {.hero-section}
+::: {.section-block}
+
+## Welcome to the Evolutionary Macroecology Lab
+
+Our lab focuses on the intersection between macroecology and macroevolution, considering macroecological patterns under an evolutionary perspective and evolutionary patterns and processes in a spatial context. We are based at the <a href="https://www.inecol.mx/index.php/ciencia/redes-academicas/biologia-evolutiva">Evolutionary Biology Network</a> of <a href="https://www.inecol.mx/">Instituto de Ecología A.C. - INECOL, Mexico</a>. We are also part of the <a href="https://ecoevol.ufg.br/">Ecology & Evolution Graduate Program of the Universidade Federal de Goiás (UFG), Brazil</a>. We support the <a href="https://peeer.net">PEEER initiative for a #BetterPublishing system</a>.
+
+:::
+:::
+
+::: {.parallax-container}
+::: {.parallax-bg-1}
+::: {.section-block .parallax-text}
+
+<div class="parallax-identity">
+<div class="parallax-identity-left">
+<img src="images/logo.png" class="lab-logo" alt="maevolabMX logo"/>
+<div class="social-links">
+<a href="https://www.facebook.com/maevolabMX/" aria-label="Facebook"><i class="bi bi-facebook"></i></a>
+<a href="https://github.com/fabro" aria-label="GitHub"><i class="bi bi-github"></i></a>
+</div>
+</div>
+<div class="parallax-identity-right">
+
+## Macroecology · Macroevolution · Biogeography
+
+We integrate macroecological theory and methods with phylogenetic approaches to understand the geographic patterns of biodiversity and the causes that originate, maintain, and alter them.
+
+</div>
+</div>
+
+:::
+:::
+:::
+
+::: {.section-text}
+::: {.section-block}
+
+## Research
+
+Our research interests span macroecology, macroevolution, biogeography, community ecology, ecophylogenetics, and conservation biology. We work primarily with vertebrates, but also with insects and plants.
+
+- Macroecology
+- Biogeography
+- Macroevolution
+- Conservation Biogeography
+- Spatial Statistics
+- Phylogenetic Comparative Methods
+
+[View research →](investigacion.qmd){.btn .btn-outline-primary .mt-3}
+
+:::
+:::
+
+::: {.section-text}
+::: {.section-block}
+
+## Projects
+
+::: {.project-grid}
+
+::: {.project-card}
+### [(Evolutionary) Macroecology](proyecto-macroecologia.qmd)
+Macroecological patterns under an evolutionary perspective, integrating ecology, biogeography, and phylogenetics.
+[Read more →](proyecto-macroecologia.qmd){.btn .btn-sm .btn-outline-primary .mt-1}
+:::
+
+::: {.project-card}
+### [Macroevolution](proyecto-macroevolucion.qmd)
+Evolutionary processes of speciation, extinction, and dispersal shaping diversity at global scales.
+[Read more →](proyecto-macroevolucion.qmd){.btn .btn-sm .btn-outline-primary .mt-1}
+:::
+
+::: {.project-card}
+### [Conservation Biogeography](proyecto-consbiogeo.qmd)
+Macroecological analyses applied to conservation planning and identification of knowledge gaps.
+[Read more →](proyecto-consbiogeo.qmd){.btn .btn-sm .btn-outline-primary .mt-1}
+:::
+
+::: {.project-card}
+### [Macroecology of Interactions](proyecto-interacciones.qmd)
+Ecological networks and their variation across geographic and climatic gradients.
+[Read more →](proyecto-interacciones.qmd){.btn .btn-sm .btn-outline-primary .mt-1}
+:::
+
+:::
+
+[View all projects →](proyectos.qmd){.btn .btn-outline-primary .mt-2}
+
+:::
+:::
+
+::: {.parallax-container}
+::: {.parallax-bg-1}
+::: {.section-block .parallax-text .parallax-text-left}
+
+## Recent Publications
+
+- [The latitudinal speciation gradient in freshwater fishes](https://doi.org/10.1371/journal.pone.0338966)  
+  **Juliana Herrera-Pérez** et al. — *PLoS One* (2026)
+
+- [Payment-based open access is biasing scientific participation from the Global South in ecology](https://doi.org/10.1002/oik.11867)  
+  P. Y. Huais, **Fabricio Villalobos** et al. — *Oikos* (2026)
+
+- [Advances in the Biogeography of Neotropical Mammals](https://doi.org/10.1007/978-3-031-43163-0_25-1)  
+  **Luis D. Verde Arregoitia**, **Fabricio Villalobos** — *Mammals of Middle and South America. Springer* (2026)
+
+- [Evolutionary Responses to Climate Change](https://doi.org/10.1016/B978-0-443-15750-9.00094-X)  
+  **Fabricio Villalobos** et al. — *Encyclopedia of Evolutionary Biology, 2nd ed.* (2026)
+
+- [Prevalence and patterns of convergent ecomorphological evolution in rodents](https://doi.org/10.1093/biolinnean/blaf122)  
+  **Luis D. Verde Arregoitia**, **Fabricio Villalobos** et al. — *Biological Journal of the Linnean Society* (2025)
+
+[View all publications →](publicaciones.qmd){.btn .btn-outline-light .mt-3}
+
+:::
+:::
+:::
+
+::: {.parallax-container}
+::: {.parallax-bg-2}
+::: {.section-block .parallax-text}
+
+## Our Team
+
+<div class="team-preview-grid">
+  <div class="team-preview-label">Principal Investigators</div>
+  <div class="team-preview-card"><img src="images/equipo/fabro.png" class="team-preview-photo" alt="Fabricio Villalobos"/><span class="team-preview-name">Fabricio Villalobos</span></div>
+  <div class="team-preview-card"><img src="images/equipo/luis.jpg" class="team-preview-photo" alt="Luis D. Verde Arregoitia"/><span class="team-preview-name">Luis D. Verde Arregoitia</span></div>
+  <div class="team-preview-label">Researchers</div>
+  <div class="team-preview-card"><img src="images/equipo/gabriel.jpeg" class="team-preview-photo" alt="Gabriel Moulatlet"/><span class="team-preview-name">Gabriel Moulatlet</span></div>
+  <div class="team-preview-card"><img src="images/equipo/carmen.png" class="team-preview-photo" alt="Carmen Galán Acedo"/><span class="team-preview-name">Carmen Galán Acedo</span></div>
+  <div class="team-preview-card"><img src="images/equipo/jessica.jpg" class="team-preview-photo" alt="Jessica Falcão"/><span class="team-preview-name">Jessica Falcão</span></div>
+  <div class="team-preview-label">Graduate Students</div>
+  <div class="team-preview-card"><img src="images/equipo/alex.png" class="team-preview-photo" alt="Alejandro Sánchez"/><span class="team-preview-name">Alejandro Sánchez</span></div>
+  <div class="team-preview-card"><img src="images/equipo/carlos.jpg" class="team-preview-photo" alt="Carlos Marín"/><span class="team-preview-name">Carlos Marín</span></div>
+  <div class="team-preview-card"><img src="images/equipo/daniel.jpg" class="team-preview-photo" alt="Daniel Valencia"/><span class="team-preview-name">Daniel Valencia</span></div>
+  <div class="team-preview-card"><img src="images/equipo/diana.jpeg" class="team-preview-photo" alt="Diana M. Ochoa-Sanz"/><span class="team-preview-name">Diana M. Ochoa-Sanz</span></div>
+  <div class="team-preview-card"><img src="images/equipo/gerardo.jpg" class="team-preview-photo" alt="Gerardo Dirzo"/><span class="team-preview-name">Gerardo Dirzo</span></div>
+  <div class="team-preview-card"><img src="images/equipo/juliana.jpeg" class="team-preview-photo" alt="Juliana Herrera"/><span class="team-preview-name">Juliana Herrera</span></div>
+  <div class="team-preview-card"><img src="images/equipo/kevin.jpg" class="team-preview-photo" alt="Kevin López Reyes"/><span class="team-preview-name">Kevin López Reyes</span></div>
+  <div class="team-preview-card"><img src="images/equipo/martin.jpg" class="team-preview-photo" alt="Martin Cabrera"/><span class="team-preview-name">Martin Cabrera</span></div>
+  <div class="team-preview-card"><img src="images/equipo/roberto.jpg" class="team-preview-photo" alt="Roberto Ruiz"/><span class="team-preview-name">Roberto Ruiz</span></div>
+  <div class="team-preview-card"><img src="images/equipo/monse.jpg" class="team-preview-photo" alt="Monserrat Juárez"/><span class="team-preview-name">Monserrat Juárez</span></div>
+</div>
+
+[Meet the full team →](equipo.qmd){.btn .btn-outline-light .mt-2}
+
+:::
+:::
+:::
+
+::: {.section-text}
+::: {.section-block .contact-block}
+
+<p><i class="bi bi-geo-alt-fill"></i> Carretera Antigua a Coatepec 351, Xalapa, Veracruz 91073<br>Campus 1, Edificio C, Tercer Piso</p>
+<p><i class="bi bi-telephone-fill"></i> +52 228 8141800 ext. 3019 &amp; 3020</p>
+
+:::
+:::

@@ -1,0 +1,597 @@
+---
+title: "Publications"
+---
+
+Lab publications list. Team members' names are highlighted in **bold**.
+
+---
+
+### 2026
+
+- [The latitudinal speciation gradient in freshwater fishes: Higher speciation across assemblages at higher latitudes in the northern hemisphere](https://doi.org/10.1371/journal.pone.0338966)  
+  **Juliana Herrera-Pérez**, **Juan D. Carvajal-Quintero**, **Axel Arango**, **Daniel Valencia-Rodríguez**, **Ana Berenice García-Andrade**, P. Tedesco, **Fabricio Villalobos**  
+  *PLoS One* (2026)
+
+- [Payment-based open access is biasing scientific participation from the Global South in ecology](https://doi.org/10.1002/oik.11867)  
+  P. Y. Huais, S. Díaz, R. Aguilar, **Fabricio Villalobos**, J. M. Cordier, A. N. Tomba, A. T. Peterson, J. Nori  
+  *Oikos* (2026)
+
+- [Advances in the Biogeography of Neotropical Mammals](https://doi.org/10.1007/978-3-031-43163-0_25-1)  
+  **Luis D. Verde Arregoitia**, **Fabricio Villalobos**  
+  *In: Mammals of Middle and South America. Springer* (2026)
+
+- [Evolutionary Responses to Climate Change](https://doi.org/10.1016/B978-0-443-15750-9.00094-X)  
+  **Fabricio Villalobos**, S. F. Gouveia, J. A. F. Diniz-Filho  
+  *Encyclopedia of Evolutionary Biology, 2nd Edition* (2026)
+
+---
+
+### 2025
+
+- [Prevalence and patterns of convergent ecomorphological evolution in rodents](https://doi.org/10.1093/biolinnean/blaf122)  
+  **Luis D. Verde Arregoitia**, **Fabricio Villalobos**, N. Cooper, G. D'Elía  
+  *Biological Journal of the Linnean Society* (2025)
+
+- [General laws of biodiversity: Climatic niches predict plant range size and ecological dominance globally](https://doi.org/10.1073/pnas.2517585122)  
+  **G. M. Moulatlet**, C. Merow, B. Maitner, B. Boyle, X. Feng, A. E. Frazier, C. Hinojo-Hinojo, E. A. Newman, P. R. Roehrdanz, L. Song, **Fabricio Villalobos**, P. A. Marquet, J. Svenning, B. J. Enquist  
+  *Proceedings of the National Academy of Sciences* (2025)
+
+- [Unravelling the conservation status of the genus Puya (Bromeliaceae) across the Neotropics](https://doi.org/10.1007/s10661-025-14766-0)  
+  P. Velásquez-Noriega, J. A. Gómez-Díaz, C. T. Hornung-Leoni, W. Dáttilo, **Fabricio Villalobos**, T. Krömer  
+  *Environmental Monitoring and Assessment* (2025)
+
+- [The effects of the dispersal ability in the diversification dynamics of Emberizoidea (Aves: Passeriformes)](https://doi.org/10.1093/evolut/qpaf226)  
+  **Axel Arango**, J. Pinto-Ledezma, O. Rojas-Soto, **Fabricio Villalobos**  
+  *Evolution* (2025)
+
+- [Historical biogeography and climatic niche dynamics in spiny lizards of the genus Sceloporus (Squamata: Phrynosomatidae)](https://doi.org/10.1093/biolinnean/blaf117)  
+  **Kevin López-Reyes**, J. M. Kass, C. Yáñez-Arenas, **Fabricio Villalobos**  
+  *Biological Journal of the Linnean Society* (2025)
+
+- [Negative impact of deforestation and mammal defaunation on dung beetle diversity and biomass: a landscape–scale approach](https://doi.org/10.1007/s10531-025-03181-z)  
+  J. L. Cómbita, V. Arroyo-Rodríguez, **Fabricio Villalobos** et al.  
+  *Biodiversity and Conservation* (2025)
+
+- [One omnivory does not rule them all: the importance of dietary differentiation in the diversification of phyllostomid bats](https://doi.org/10.1093/evolut/qpaf174)  
+  **Diana M. Ochoa-Sanz**, D. Rojas, L. Herrera-Alsina, **Juliana Herrera-Pérez**, W. Dáttilo, L. R. Yohe, **Fabricio Villalobos**  
+  *Evolution* (2025)
+
+- [SBEARS—a site-based method to estimate ancestral ranges of species](https://doi.org/10.1093/evolut/qpaf173)  
+  L. Duarte, G. Nakamura, **Fabricio Villalobos**, C. Prauchner, J. Lopes Costa, M. Schwade, R. Maestri  
+  *Evolution* (2025)
+
+- [Ecological Niche Structure and the Interactive Role of Leaf-Nosed Bats (Chiroptera: Phyllostomidae) Within Frugivory Networks](https://doi.org/10.1111/ele.70221)  
+  A. R. Villa, **Diana M. Ochoa-Sanz**, **Fabricio Villalobos**, M. C. MacSwiney, O. Rojas-Soto, W. Dáttilo  
+  *Ecology Letters* (2025)
+
+- [Threatened and non-threatened bats play equivalent roles in bat-flower meta-networks at global and biogeographic realm scales](https://doi.org/10.1007/s10531-025-03141-7)  
+  K. González-Gutiérrez, **Fabricio Villalobos**, L. T. Hernández-Salazar, D. Rodríguez-Morales, W. Dáttilo  
+  *Biodiversity and Conservation* (2025)
+
+- [Current and future applications of species distribution and ecological niche modelling for the study of ticks and tick-borne pathogens](https://doi.org/10.1111/mve.12820)  
+  U. M. Valdez-Espinoza, D. Santiago-Alarcon, **Fabricio Villalobos**, R. Marques, R. Lagunes-Quintanilla, A. Lira-Noriega  
+  *Medical and Veterinary Entomology* (2025)
+
+- [Bird Species' Network Centrality Varies Differentially across Species within Their Climatic Niches](https://doi.org/10.1086/736357)  
+  **G. M. Moulatlet**, W. Dáttilo, D. Kissling, **Fabricio Villalobos**  
+  *The American Naturalist* (2025)
+
+- [The latitudinal variation in amphibian speciation rates revisited](https://doi.org/10.1038/s42003-025-08225-2)  
+  A. García-Rodríguez, **Fabricio Villalobos**, J. A. Velasco, F. Essl, G. C. Costa  
+  *Communications Biology* (2025)
+
+- [Environmental heterogeneity as a determinant of bee diversity patterns in the Atlantic Forest](https://doi.org/10.21425/fob.18.142410)  
+  A. I. Antonio, A. C. de Oliveira-Junior, **Fabricio Villalobos**, S. J. E. Velazco  
+  *Frontiers of Biogeography* (2025)
+
+- [The scaling of seed-dispersal specialization in interaction networks across levels of organization](https://doi.org/10.1002/ecog.07771)  
+  **G. M. Moulatlet**, P. Luna, W. Dáttilo, **Fabricio Villalobos**  
+  *Ecography* (2025)
+
+- [Comparing methods for estimating geographic ranges in freshwater fishes: several mirrors of the same reality](https://doi.org/10.1111/fwb.70014)  
+  **Daniel Valencia-Rodríguez**, **Fabricio Villalobos**, P. A. Tedesco, N. Mercado-Silva, M. Rubio-Godoy, O. Rojas-Soto  
+  *Freshwater Biology* (2025)
+
+- [Areas of endemism of the orchids of Megamexico: Hotspots of biotic interactions with pollinators](https://doi.org/10.1111/jse.13119)  
+  B. E. Gutiérrez-Rodríguez, W. Dáttilo, **Fabricio Villalobos**, V. Sosa  
+  *Journal of Systematics and Evolution* (2025)
+
+- [Broad geographic dispersal is not a diversification driver for Emberizoidea](https://doi.org/10.1098/rspb.2024.1965)  
+  **Axel Arango**, J. Pinto-Ledezma, O. Rojas-Soto, **Fabricio Villalobos**  
+  *Proceedings of the Royal Society B* (2025)
+
+---
+
+### 2024
+
+- [Limited drought tolerance in the neotropical seasonally dry forest plants impairs future species richness](https://doi.org/10.1111/plb.13683)  
+  A. Manrique-Ascencio, D. A. Prieto-Torres, **Fabricio Villalobos**, J. Mercado Gómez, R. Guevara  
+  *Plant Biology* (2024)
+
+- [The central importance of the honeybee (Apis mellifera L.) within plant-bee interaction networks decreases along a Neotropical elevational gradient](https://doi.org/10.1016/j.ecocom.2024.101105)  
+  C. P. Cruz, P. Luna, **Fabricio Villalobos**, R. Guevara, I. Hinojoza-Díaz, W. Dáttilo  
+  *Ecological Complexity* (2024)
+
+- [Global analysis of the influence of environmental variables to explain ecological niches and realized thermal niche boundaries of sea snakes](https://doi.org/10.1371/journal.pone.0310456)  
+  C. Patrón-Rivero, L. Osorio-Olvera, O. Rojas-Soto, X. Chiappa-Carrara, **Fabricio Villalobos**, B. Bessesen et al., C. Yañez-Arenas  
+  *PLoS One* (2024)
+
+- [Exploring the causes underlying the latitudinal variation in range sizes: Evidence for Rapoport's rule in spiny lizards (genus Sceloporus)](https://doi.org/10.1371/journal.pone.0306832)  
+  **Kevin López-Reyes**, C. Yáñez-Arenas, **Fabricio Villalobos**  
+  *PLoS One* (2024)
+
+- [Endemism Centres of the Five Richest Vascular Epiphyte Families in the Neotropics](https://doi.org/10.1111/jbi.15016)  
+  M. J. Carmona-Higuita, G. Mendieta-Leiva, J. A. Gómez-Díaz, **Fabricio Villalobos**, F. N. Ramos, J. P. C. Elias et al., T. Krömer  
+  *Journal of Biogeography* (2024)
+
+- [Global primary predictors of extinction risk in primates](https://doi.org/10.1098/rspb.2024.1905)  
+  **Carmen Galán-Acedo**, **Luis D. Verde Arregoitia**, R. Arasa-Gisbert, D. Auliz-Ortiz, **Laura Saldívar-Burrola**, S. F. Gouveia et al., **Fabricio Villalobos**  
+  *Proceedings of the Royal Society B* (2024)
+
+- [Capability of big data to capture threatened vertebrate diversity in protected areas](https://doi.org/10.1111/cobi.14371)  
+  J. M. Cordier, L. Osorio-Olvera, P. Y. Huais, A. N. Tomba, **Fabricio Villalobos**, J. Nori  
+  *Conservation Biology* (2024)
+
+- [The decolonization dilemma at different stages of the academic career](https://doi.org/10.1038/s41559-024-02489-3)  
+  T. Rivera-Núñez et al., **Fabricio Villalobos** et al., W. Dáttilo  
+  *Nature Ecology & Evolution* (2024)
+
+- [Mechanisms, detection and impacts of species redistributions under climate change](https://doi.org/10.1038/s43017-024-00527-z)  
+  J. A. Lawlor et al., **Fabricio Villalobos** et al., J. Sunday  
+  *Nature Reviews Earth & Environment* (2024)
+
+- [Climate-driven shifts in the diversity of plants in the Neotropical seasonally dry forest: Evaluating the effectiveness of protected areas](https://doi.org/10.1111/gcb.17282)  
+  A. Manrique-Ascencio, D. A. Prieto-Torres, **Fabricio Villalobos**, R. Guevara  
+  *Global Change Biology* (2024)
+
+- [Bringing traits back into the equation: A roadmap to understand species redistribution](https://doi.org/10.1111/gcb.17271)  
+  L. Comte et al., **Fabricio Villalobos** et al., J. Lenoir  
+  *Global Change Biology* (2024)
+
+- [Energy input, habitat heterogeneity and host specificity drive avian haemosporidian diversity at continental scales](https://doi.org/10.1098/rspb.2023.2705)  
+  O. Hernandes-Córdoba, E. J. Torres-Romero, **Fabricio Villalobos**, L. Chapa-Vargas, D. Santiago-Alarcon  
+  *Proceedings of the Royal Society B* (2024)
+
+- [The Clade Replacement Theory: a framework to study age-dependent extinction](https://doi.org/10.1093/jeb/voae012)  
+  C. Calderón del Cid, **Fabricio Villalobos**, R. Dobrovolski, J. D. Carrillo, D. Silvestro, B. Vilela  
+  *Journal of Evolutionary Biology* (2024)
+
+- [Drivers of flower visit and resource sharing between the honeybee and native bees in Neotropical coastal sand dunes](https://doi.org/10.1007/s00114-024-01888-7)  
+  C. P. Cruz, B. Ratoni, **Fabricio Villalobos**, R. Ayala, I. Hinojoza-Díaz, W. Dáttilo  
+  *The Science of Nature* (2024)
+
+- [Conservation status of vascular epiphytes in the neotropics](https://doi.org/10.1007/s10531-023-02730-8)  
+  M. J. Carmona-Higuita, G. Mendieta-Leiva, J. A. Gómez-Díaz, **Fabricio Villalobos**, F. N. Ramos, J. P. C. Elias et al., T. Krömer  
+  *Biodiversity and Conservation* (2024)
+
+---
+
+### 2023
+
+- [Temperate species underfill their tropical thermal potentials on land](https://doi.org/10.1038/s41559-023-02239-x)  
+  N. A. Moore, I. Morales-Castilla, A. L. Hargreaves, M. Á. Olalla-Tárraga, **Fabricio Villalobos**, P. Calosi et al., J. M. Sunday  
+  *Nature Ecology & Evolution* (2023)
+
+- [Macroecotoxicology: challenges and opportunities to study broad-scale biodiversity patterns under the effect of microplastics contamination](https://doi.org/10.1016/j.coesh.2023.100507)  
+  **G. M. Moulatlet**, D. M. Truchet, M. V. Capparelli, **Fabricio Villalobos**, N. S. Buzzi  
+  *Current Opinion in Environmental Science & Health* (2023)
+
+- [Species-level drivers of avian centrality within seed-dispersal networks across different levels of organisation](https://doi.org/10.1111/1365-2656.13986)  
+  **G. M. Moulatlet**, W. Dáttilo, **Fabricio Villalobos**  
+  *Journal of Animal Ecology* (2023)
+
+- [Addressing Knowledge Shortfalls in Conservation Science: A long way to go, as quickly as possible](https://doi.org/10.1016/j.biocon.2023.110314)  
+  J. Nori, B. Maas, F. Brum, **Fabricio Villalobos**  
+  *Biological Conservation* (2023)
+
+- [Temperature dissimilarity drives flower–visitor interaction turnover across elevation in the Mexican Transition Zone](https://doi.org/10.1111/jbi.14684)  
+  P. Luna, **Fabricio Villalobos**, F. Escobar, F. Neves, G. Castillo-Campos, I. Hinojosa-Díaz et al., W. Dáttilo  
+  *Journal of Biogeography* (2023)
+
+- [Same process, different patterns: pervasive effect of evolutionary time on species richness in freshwater fishes](https://doi.org/10.1098/rspb.2023.1066)  
+  **Ana Berenice García-Andrade**, P. A. Tedesco, **Juan D. Carvajal-Quintero**, **Axel Arango**, **Fabricio Villalobos**  
+  *Proceedings of the Royal Society B* (2023)
+
+- [Reshaping biogeography: Perspectives on the past, present and future](https://doi.org/10.1111/jbi.14675)  
+  M. N. Dawson, K. Mainali, R. Meyer, M. Noonan, M. Papes, L. R. Parenti, **Fabricio Villalobos**  
+  *Journal of Biogeography* (2023)
+
+- [Global patterns of phylogenetic beta-diversity components in angiosperms](https://doi.org/10.1111/jvs.13203)  
+  **G. M. Moulatlet**, B. Kusumoto, J. Pinto-Ledezma, T. Shiono, Y. Kubota, **Fabricio Villalobos**  
+  *Journal of Vegetation Science* (2023)
+
+- [Seasonal distribution analysis of five lasiurine bat species: clues to migration patterns and behavior](https://doi.org/10.1515/mammalia-2022-0129)  
+  K. Rojas-Herrera, **Fabricio Villalobos**, A. Guillén-Servent, S. Solari, O. Rojas-Soto  
+  *Mammalia* (2023)
+
+- [Transboundary conservation opportunities for Cerrado's plant species](https://doi.org/10.1016/j.biocon.2023.110194)  
+  S. J. E. Velazco, **Fabricio Villalobos**, F. Galvão, P. de Marco Jr.  
+  *Biological Conservation* (2023)
+
+- [Knowledge shortfalls' interactions shadow our perception of species' exposure to human threats](https://doi.org/10.1016/j.biocon.2023.110069)  
+  M. C. Baranzelli, **Fabricio Villalobos**, J. M. Cordier, J. Nori  
+  *Biological Conservation* (2023)
+
+- [Vipers on the Scene: Assessing the Relationship Between Speciation and Climatic Niche Evolution in Venomous Snakes (Reptilia: Viperidae)](https://doi.org/10.1007/s11692-023-09604-5)  
+  **Citlalli Edith Esparza-Estrada**, L. R. Alencar, L. C. Terribile, O. Rojas-Soto, C. Yáñez-Arenas, **Fabricio Villalobos**  
+  *Evolutionary Biology* (2023)
+
+- [Climate drives global functional trait variation in lizards](https://doi.org/10.1038/s41559-023-02007-x)  
+  J. G. Rubalcaba, S. F. Gouveia, **Fabricio Villalobos**, M. Á. Olalla-Tárraga, J. Sunday  
+  *Nature Ecology & Evolution* (2023)
+
+- [Effects of habitat loss on Brazilian primates: assessing extinction thresholds in the Amazon and Atlantic Forest](https://doi.org/10.1016/j.pecon.2023.05.001)  
+  **Carmen Galán-Acedo**, R. Arasa-Gisbert, V. Arroyo-Rodríguez, M. Martínez-Ruiz, F. A. Rosete-Vergés, **Fabricio Villalobos**  
+  *Perspectives in Ecology and Conservation* (2023)
+
+- [Evolutionary rescue and geographic range shifts under climate change for global amphibians](https://doi.org/10.3389/fevo.2023.1038018)  
+  K. S. Souza, D. S. Fortunato, L. Jardim, L. C. Terribile, M. S. Lima-Ribeiro, C. Á. Mariano et al., **Fabricio Villalobos** et al.  
+  *Frontiers in Ecology and Evolution* (2023)
+
+- [Combining Geographic Distribution and Trait Information to Infer Predator-Prey Species-Level Interaction Properties](https://doi.org/10.3390/d15010061)  
+  **Alejandro Sánchez-Barradas**, W. Dattilo, D. Santiago-Alarcon, W. D. Kissling, **Fabricio Villalobos**  
+  *Diversity* (2023)
+
+- [Lessons from comparative primatology for understanding trait covariation and diversity in evolutionary ecology](https://doi.org/10.1111/mam.12307)  
+  I. Correia, B. de Franca Gomes, **Fabricio Villalobos**, S. F. Ferrari, S. F. Gouveia  
+  *Mammal Review* (2023)
+
+- [Contrasting biogeographical patterns of threatened vertebrates on islands emerge from disparities between expert-derived maps and Global Biodiversity Information Facility data](https://doi.org/10.1111/jbi.14545)  
+  J. Nori, D. A. Prieto-Torres, **Fabricio Villalobos**, R. Loyola, O. Rojas-Soto, J. L. Parra, A. Lira-Noriega, H. M. Ortega-Andrade, A. Monjeau, S. Hernandez-De La Fuente, E. Martinez-Meyer, L. Osorio-Olvera  
+  *Journal of Biogeography* (2023)
+
+- [Robustness of Bergmann's and Rapoport's rules to different geographical range estimates in New World pit vipers](https://doi.org/10.1111/jbi.14538)  
+  C. Ten Caten, M. S. Lima-Ribeiro, C. Yanez-Arenas, **Fabricio Villalobos**, L. Diaz-Gamboa, L. C. Terribile  
+  *Journal of Biogeography* (2023)
+
+- [Scale of population synchrony confirms macroecological estimates of minimum viable range size](https://doi.org/10.1111/ele.14152)  
+  **Juan D. Carvajal-Quintero**, L. Comte, X. Giam, J. D. Olden, U. Brose, T. Eros, A. F. Filipe, M. J. Fortin, K. Irving, C. Jacquet, S. Larsen, A. Ruhi, S. Sharma, **Fabricio Villalobos**, P. A. Tedesco  
+  *Ecology Letters* (2023)
+
+- [Humboldt's legacy: explaining the influence of environmental factors on the taxonomic and phylogenetic diversity of angiosperms along a Neotropical elevational gradient](https://doi.org/10.1093/aobpla/plac056)  
+  J. A. Gomez-Diaz, C. I. Carvajal-Hernandez, A. P. Bautista-Bello, M. L. Monge-Gonzalez, V. Guzman-Jacob, H. Kreft, T. Kromer, **Fabricio Villalobos**  
+  *AOB Plants* (2023)
+
+---
+
+### 2022
+
+- [Amphibian species richness and endemism in tropical montane cloud forests across the Neotropics](https://doi.org/10.1007/s10531-021-02335-z)  
+  C. Tobar-Suarez, N. Urbina-Cardona, **Fabricio Villalobos**, E. Pineda  
+  *Biodiversity and Conservation* (2022)
+
+- [Global trends in the trophic specialisation of flower-visitor networks are explained by current and historical climate](https://doi.org/10.1111/ele.13910)  
+  P. Luna, **Fabricio Villalobos**, F. Escobar, F. S. Neves, W. Dattilo  
+  *Ecology Letters* (2022)
+
+- [Evolutionary dynamics of climatic niche influenced the current geographical distribution of Viperidae worldwide](https://doi.org/10.1093/biolinnean/blac012)  
+  **Citlalli Edith Esparza-Estrada**, L. C. Terribile, O. Rojas-Soto, C. Yanez-Arenas, **Fabricio Villalobos**  
+  *Biological Journal of the Linnean Society* (2022)
+
+- [Physical constraints on thermoregulation and flight drive morphological evolution in bats](https://doi.org/10.1073/pnas.2103745119)  
+  J. G. Rubalcaba, S. F. Gouveia, **Fabricio Villalobos** et al.  
+  *Proceedings of the National Academy of Sciences* (2022)
+
+- [Alpha and beta phylogenetic diversities jointly reveal ant community assembly mechanisms along a tropical elevational gradient](https://doi.org/10.1038/s41598-022-11739-y)  
+  G. R. Perez-Toledo, **Fabricio Villalobos**, R. R. Silva, C. E. Moreno, M. R. Pie, J. E. Valenzuela-Gonzalez  
+  *Scientific Reports* (2022)
+
+- [Insufficient protection and intense human pressure threaten islands worldwide](https://doi.org/10.1016/j.pecon.2022.06.003)  
+  J. Nori, **Fabricio Villalobos**, L. Osorio-Olvera, R. Loyola  
+  *Perspectives in Ecology and Conservation* (2022)
+
+- [Current climate and latitude shape the structure of bat-fruit interaction networks throughout the Neotropical region](https://doi.org/10.1080/11956860.2021.2007644)  
+  **Erick J. Corro**, **Fabricio Villalobos**, A. Lira-Noriega, R. Guevara, W. Dattilo  
+  *Ecoscience* (2022)
+
+- [Hand-Wing Index as a surrogate for dispersal ability: the case of the Emberizoidea radiation](https://doi.org/10.1093/biolinnean/blac071)  
+  **Axel Arango**, J. Pinto-Ledezma, O. Rojas-Soto, A. M. Lindsay, C. D. Mendenhall, **Fabricio Villalobos**  
+  *Biological Journal of the Linnean Society* (2022)
+
+- [Climate and human influence shape the interactive role of the honeybee in pollination networks beyond its native range](https://doi.org/10.1016/j.baae.2022.06.009)  
+  C. Pinilla Cruz, P. Luna, R. Guevara, I. A. Hinojosa-Diaz, **Fabricio Villalobos**, W. Dattilo  
+  *Basic and Applied Ecology* (2022)
+
+- [Amphibian Diversity of the Yucatan Peninsula: Representation in Protected Areas and Climate Change Impacts](https://doi.org/10.3390/d14100813)  
+  S. M. Castano-Quintero, J. Escobar-Lujan, **Fabricio Villalobos**, L. M. Ochoa-Ochoa, C. Yanez-Arenas  
+  *Diversity* (2022)
+
+- [The agony of choice: Species richness and range size in the determination of hotspots for the conservation of phyllostomid bats](https://doi.org/10.1016/j.pecon.2022.08.005)  
+  J. D. Cu-Vizcarra, **Fabricio Villalobos**, M. C. MacSwiney G, V. J. Sosa, B. Bolivar-Cime  
+  *Perspectives in Ecology and Conservation* (2022)
+
+- [The Impact of the Honeybee *Apis mellifera* on the Organization of Pollination Networks Is Positively Related with Its Interactive Role throughout Its Geographic Range](https://doi.org/10.3390/d14110917)  
+  W. Dattilo, C. Pinilla Cruz, P. Luna et al., **Fabricio Villalobos**  
+  *Diversity* (2022)
+
+- [Can secondary forests mitigate the negative effect of old-growth forest loss on biodiversity?](https://doi.org/10.1007/s10980-022-01532-7)  
+  **Laura L. Saldívar-Burrola**, M. Martinez-Ruiz, V. Arroyo-Rodriguez, **Fabricio Villalobos** et al.  
+  *Landscape Ecology* (2022)
+
+- [Current and future geographic patterns of bird diversity dimensions of the Yucatan Peninsula](https://doi.org/10.1080/23766808.2022.2087282)  
+  J. Escobar-Lujan, S. M. Castano-Quintero, **Fabricio Villalobos** et al.  
+  *Neotropical Biodiversity* (2022)
+
+---
+
+### 2021
+
+- [The phylogenetic diversity and structure of the seasonally dry forests in the Neotropics](https://doi.org/10.1111/jbi.13991)  
+  **Axel Arango**, **Fabricio Villalobos**, D. A. Prieto-Torres, R. Guevara  
+  *Journal of Biogeography* (2021)
+
+- [The evolution of critical thermal limits of life on Earth](https://doi.org/10.1038/s41467-021-21263-8)  
+  J. M. Bennett, J. Sunday, P. Calosi, **Fabricio Villalobos** et al.  
+  *Nature Communications* (2021)
+
+- [Effects of evolutionary time, speciation rates and local abiotic conditions on the origin and maintenance of amphibian montane diversity](https://doi.org/10.1111/geb.13249)  
+  A. Garcia-Rodriguez, J. A. Velasco, **Fabricio Villalobos**, G. Parra-Olea  
+  *Global Ecology and Biogeography* (2021)
+
+- [A Cautionary Note on Phylogenetic Signal Estimation from Imputed Databases](https://doi.org/10.1007/s11692-021-09534-0)  
+  L. Jardim, L. M. Bini, J. A. F. Diniz-Filho, **Fabricio Villalobos**  
+  *Evolutionary Biology* (2021)
+
+- [Evolutionary and environmental drivers of species richness in poeciliid fishes across the Americas](https://doi.org/10.1111/geb.13299)  
+  **Ana Berenice García-Andrade**, **Juan D. Carvajal-Quintero**, P. A. Tedesco, **Fabricio Villalobos**  
+  *Global Ecology and Biogeography* (2021)
+
+- [Different elevational environments dictate contrasting patterns of niche evolution in Neotropical *Pithecopus* treefrog species](https://doi.org/10.1111/btp.12929)  
+  L. N. Bandeira, **Fabricio Villalobos**, F. P. Werneck, A. T. Peterson, M. Anciaes  
+  *Biotropica* (2021)
+
+- [Biogeographical origin effects on exotic plants colonization in the insular flora of Japan](https://doi.org/10.1007/s10530-021-02550-3)  
+  B. Kusumoto, Y. Kubota, T. Shiono, **Fabricio Villalobos**  
+  *Biological Invasions* (2021)
+
+- [Patterns and drivers of leaf-litter ant diversity along a tropical elevational gradient in Mexico](https://doi.org/10.1111/jbi.14217)  
+  G. R. Perez-Toledo, J. E. Valenzuela-Gonzalez, C. E. Moreno, **Fabricio Villalobos**, R. R. Silva  
+  *Journal of Biogeography* (2021)
+
+- [Metacommunity structure reveals that temperature affects the landscape compositional patterns of avian malaria and haemosporidian parasites across elevations](https://doi.org/10.1016/j.actao.2021.103789)  
+  P. Alvarez-Mendizabal, **Fabricio Villalobos** et al.  
+  *Acta Oecologica* (2021)
+
+- [Regional deforestation drives the impact of forest cover and matrix quality on primate species richness](https://doi.org/10.1016/j.biocon.2021.109338)  
+  **Carmen Galán-Acedo**, D. Spaan, J. C. Bicca-Marques, R. B. de Azevedo, **Fabricio Villalobos** et al.  
+  *Biological Conservation* (2021)
+
+- [Annual precipitation predicts the phylogenetic signal in bat-fruit interaction networks across the Neotropics](https://doi.org/10.1098/rsbl.2021.0478)  
+  **Erick J. Corro**, **Fabricio Villalobos**, A. Lira-Noriega, R. Guevara, P. R. Guimaraes Jr, W. Dattilo  
+  *Biology Letters* (2021)
+
+---
+
+### 2020
+
+- [Species geographical co-occurrence and the effect of Grinnellian and Eltonian niche partitioning: The case of a Neotropical felid assemblage](https://doi.org/10.1111/1440-1703.12070)  
+  **Alejandro Sánchez-Barradas**, **Fabricio Villalobos**  
+  *Ecological Research* (2020)
+
+- [Mexico ants: incidence and abundance along the Nearctic-Neotropical interface](https://doi.org/10.1002/ecy.2944)  
+  W. Dattilo, M. Vasquez-Bolanos et al., **Fabricio Villalobos**  
+  *Ecology* (2020)
+
+- [Unveiling geographical gradients of species richness from scant occurrence data](https://doi.org/10.1111/geb.13055)  
+  D. M. C. C. Alves et al., **Fabricio Villalobos**  
+  *Global Ecology and Biogeography* (2020)
+
+- [Insect responses to heat: physiological mechanisms, evolution and ecological implications in a warming world](https://doi.org/10.1111/brv.12588)  
+  D. Gonzalez-Tokman, A. Cordoba-Aguilar, W. Dattilo, A. Lira-Noriega, R. A. Sanchez-Guillen, **Fabricio Villalobos**  
+  *Biological Reviews* (2020)
+
+- [Macroecology and macroevolution of body size in *Anolis* lizards](https://doi.org/10.1111/ecog.04583)  
+  J. A. Velasco, **Fabricio Villalobos**, J. A. F. Diniz-Filho, S. Poe, O. Flores-Villela  
+  *Ecography* (2020)
+
+- [Phylogenetic structure of geographical co-occurrence among New World Triatominae species, vectors of Chagas disease](https://doi.org/10.1111/jbi.13810)  
+  S. Ceccarelli et al., **Fabricio Villalobos**  
+  *Journal of Biogeography* (2020)
+
+- [Mountains: how they are defined and their importance for biodiversity and humanity](https://doi.org/10.30878/ces.v27n2a9)  
+  J. A. Gomez Diaz, **Fabricio Villalobos**  
+  *Ciencia Ergo-Sum* (2020)
+
+- [Species-level drivers of mammalian ectoparasite faunas](https://doi.org/10.1111/1365-2656.13216)  
+  W. Dattilo, N. Barrozo-Chavez, A. Lira-Noriega, R. Guevara, **Fabricio Villalobos** et al.  
+  *Journal of Animal Ecology* (2020)
+
+- [Priority areas for conservation of and research focused on terrestrial vertebrates](https://doi.org/10.1111/cobi.13476)  
+  J. Nori, R. Loyola, **Fabricio Villalobos**  
+  *Conservation Biology* (2020)
+
+- [The evolutionary history of colour polymorphism in *Ischnura* damselflies](https://doi.org/10.5281/zenodo.4268559)  
+  R. A. Sanchez-Guillen, S. Ceccarelli, **Fabricio Villalobos** et al.  
+  *Odonatologica* (2020)
+
+---
+
+### 2019
+
+- [Climatic niche evolution in turtles is characterized by phylogenetic conservatism for both aquatic and terrestrial species](https://doi.org/10.1111/jeb.13395)  
+  J. F. M. Rodrigues, **Fabricio Villalobos**, J. B. Iverson, J. A. F. Diniz-Filho  
+  *Journal of Evolutionary Biology* (2019)
+
+- [Drivers of Phylogenetic Assemblage Structure of the Furnariides, a Widespread Clade of Lowland Neotropical Birds](https://doi.org/10.1086/700696)  
+  J. N. Pinto-Ledezma, A. E. Jahn, V. R. Cueto, J. A. F. Diniz-Filho, **Fabricio Villalobos**  
+  *American Naturalist* (2019)
+
+- [A dark scenario for Cerrado plant species: Effects of future climate, land use and protected areas ineffectiveness](https://doi.org/10.1111/ddi.12886)  
+  S. J. E. Velazco, **Fabricio Villalobos**, F. Galvao, P. De Marco Junior  
+  *Diversity and Distributions* (2019)
+
+- [A macroecological approach to evolutionary rescue and adaptation to climate change](https://doi.org/10.1111/ecog.04264)  
+  J. A. F. Diniz-Filho, K. S. Souza, L. M. Bini, R. Loyola, **Fabricio Villalobos** et al.  
+  *Ecography* (2019)
+
+- [Drainage network position and historical connectivity explain global patterns in freshwater fishes' range size](https://doi.org/10.1073/pnas.1902484116)  
+  **Juan D. Carvajal-Quintero**, **Fabricio Villalobos**, T. Oberdorff et al.  
+  *Proceedings of the National Academy of Sciences* (2019)
+
+- [Biological traits, phylogeny and human footprint signatures on the geographical range size of passerines worldwide](https://doi.org/10.1111/geb.12924)  
+  M. A. Olalla-Tarraga, T. F. Amado, L. M. Bini, P. A. Martinez, I. Morales-Castilla, E. J. Torres-Romero, **Fabricio Villalobos**  
+  *Global Ecology and Biogeography* (2019)
+
+---
+
+### 2018
+
+- [Climatic and evolutionary factors shaping geographical gradients of species richness in *Anolis* lizards](https://doi.org/10.1093/biolinnean/blx160)  
+  J. A. Velasco, **Fabricio Villalobos**, J. A. F. Diniz-Filho et al.  
+  *Biological Journal of the Linnean Society* (2018)
+
+- [Geographic variation in the relationship between large-scale environmental determinants and bat species richness](https://doi.org/10.1016/j.baae.2017.12.002)  
+  D. M. C. C. Alves, J. A. F. Diniz-Filho, K. da Silva e Souza, S. F. Gouveia, **Fabricio Villalobos**  
+  *Basic and Applied Ecology* (2018)
+
+- [GlobTherm, a global database on thermal tolerances for aquatic and terrestrial organisms](https://doi.org/10.1038/sdata.2018.22)  
+  J. M. Bennett, P. Calosi, S. Clusella-Trullas, B. Martinez et al., **Fabricio Villalobos**  
+  *Scientific Data* (2018)
+
+- [Global priority areas for amphibian research](https://doi.org/10.1111/jbi.13435)  
+  J. Nori, **Fabricio Villalobos**, R. Loyola  
+  *Journal of Biogeography* (2018)
+
+---
+
+### 2017
+
+- [Contrasting evidence of phylogenetic trophic niche conservatism in mammals worldwide](https://doi.org/10.1111/jbi.12823)  
+  M. A. Olalla-Tarraga, M. Gonzalez-Suarez, R. Bernardo-Madrid, E. Revilla, **Fabricio Villalobos**  
+  *Journal of Biogeography* (2017)
+
+- [Global patterns of mammalian co-occurrence: phylogenetic and body size structure within species ranges](https://doi.org/10.1111/jbi.12826)  
+  **Fabricio Villalobos**, M. A. Olalla-Tarraga, M. V. Cianciaruso, T. F. Rangel, J. A. F. Diniz-Filho  
+  *Journal of Biogeography* (2017)
+
+- [Integrating selection, niche, and diversification into a hierarchical conceptual framework](https://doi.org/10.1007/s13127-016-0299-x)  
+  D. M. C. C. Alves, J. A. F. Diniz-Filho, **Fabricio Villalobos**  
+  *Organisms Diversity & Evolution* (2017)
+
+- [Geographical patterns of phylogenetic beta-diversity components in terrestrial mammals](https://doi.org/10.1111/geb.12561)  
+  F. P. Peixoto, **Fabricio Villalobos**, A. S. Melo, J. A. F. Diniz-Filho, R. Loyola, T. F. Rangel, M. V. Cianciaruso  
+  *Global Ecology and Biogeography* (2017)
+
+- [Structural bias in aggregated species-level variables driven by repeated species co-occurrences](https://doi.org/10.1111/jbi.12953)  
+  B. A. Hawkins, B. Leroy, M. A. Rodriguez et al., **Fabricio Villalobos**  
+  *Journal of Biogeography* (2017)
+
+- [Geographical diversification and the effect of model and data inadequacies: the bat diversity gradient as a case study](https://doi.org/10.1093/biolinnean/blx030)  
+  D. M. C. C. Alves, J. A. F. Diniz-Filho, **Fabricio Villalobos**  
+  *Biological Journal of the Linnean Society* (2017)
+
+- [The geographical diversification of Furnariides: the role of forest versus open habitats](https://doi.org/10.1111/jbi.12939)  
+  J. N. Pinto-Ledezma, L. M. Simon, J. A. F. Diniz-Filho, **Fabricio Villalobos**  
+  *Journal of Biogeography* (2017)
+
+- [Changes in the realized niche of the invasive succulent CAM plant *Furcraea foetida*](https://doi.org/10.1111/aec.12483)  
+  C. Barbosa, J. M. Otalora, E. L. H. Giehl, **Fabricio Villalobos** et al.  
+  *Austral Ecology* (2017)
+
+- [Phylogenetic conservatism of climatic niche in bats](https://doi.org/10.1111/geb.12618)  
+  F. P. Peixoto, **Fabricio Villalobos**, M. V. Cianciaruso  
+  *Global Ecology and Biogeography* (2017)
+
+- [Using worldwide edaphic data to model plant species niches: An assessment at a continental extent](https://doi.org/10.1371/journal.pone.0186025)  
+  S. J. E. Velazco, F. Galvao, **Fabricio Villalobos**, P. De Marco Junior  
+  *PLoS One* (2017)
+
+- [Evolution of the anuran foam nest: trait conservatism and lineage diversification](https://doi.org/10.1093/biolinnean/blx110)  
+  E. B. Pereira, J. N. Pinto-Ledezma, C. G. De Freitas, **Fabricio Villalobos** et al.  
+  *Biological Journal of the Linnean Society* (2017)
+
+- [Macroecology in Mexico: history, progress and perspectives](https://doi.org/10.1016/j.rmb.2017.10.006)  
+  P. Rodriguez, **Fabricio Villalobos**, **Alejandro Sánchez-Barradas**, M. E. Correa-Cano  
+  *Revista Mexicana de Biodiversidad* (2017)
+
+---
+
+### 2016
+
+- [Disentangling the Role of Climate, Topography and Vegetation in Species Richness Gradients](https://doi.org/10.1371/journal.pone.0152468)  
+  M. R. Moura, **Fabricio Villalobos**, G. C. Costa, P. C. A. Garcia  
+  *PLoS One* (2016)
+
+- [Phylogenetic fields through time: temporal dynamics of geographical co-occurrence and phylogenetic structure within species ranges](https://doi.org/10.1098/rstb.2015.0220)  
+  **Fabricio Villalobos**, F. Carotenuto, P. Raia, J. A. F. Diniz-Filho  
+  *Philosophical Transactions of the Royal Society B* (2016)
+
+- [Environmental niche drives genetic and morphometric structure in a widespread bat](https://doi.org/10.1111/jbi.12666)  
+  A. Morales, **Fabricio Villalobos**, P. M. Velazco, N. B. Simmons, D. Pinero  
+  *Journal of Biogeography* (2016)
+
+---
+
+### 2015
+
+- [The best of both worlds: Phylogenetic eigenvector regression and mapping](https://doi.org/10.1590/S1415-475738320140391)  
+  J. A. F. Diniz Filho, **Fabricio Villalobos**, L. M. Bini  
+  *Genetics and Molecular Biology* (2015)
+
+- [Phylogenetic eigenvectors and nonstationarity in the evolution of theropod dinosaur skulls](https://doi.org/10.1111/jeb.12660)  
+  J. A. F. Diniz-Filho, D. M. C. C. Alves, **Fabricio Villalobos**, M. Sakamoto, S. L. Brusatte, L. M. Bini  
+  *Journal of Evolutionary Biology* (2015)
+
+- [The Effect of Host-Plant Phylogenetic Isolation on Species Richness, Composition and Specialization of Insect Herbivores](https://doi.org/10.1371/journal.pone.0138031)  
+  J. M. Grandez-Rios, L. L. Bergamini, W. S. de Araujo, **Fabricio Villalobos**, M. Almeida-Neto  
+  *PLoS One* (2015)
+
+- [letsR: a new R package for data handling and analysis in macroecology](https://doi.org/10.1111/2041-210X.12401)  
+  B. Vilela, **Fabricio Villalobos**  
+  *Methods in Ecology and Evolution* (2015)
+
+---
+
+### 2014
+
+- [Co-diversity and co-distribution in phyllostomid bats: Evaluating the relative roles of climate and niche conservatism](https://doi.org/10.1016/j.baae.2013.11.001)  
+  **Fabricio Villalobos**, A. Lira-Noriega, J. Soberon, H. T. Arita  
+  *Basic and Applied Ecology* (2014)
+
+- [Morphological diversity at different spatial scales in a Neotropical bat assemblage](https://doi.org/10.1007/s00442-014-3039-y)  
+  **Fabricio Villalobos**, H. T. Arita  
+  *Oecologia* (2014)
+
+- [Forest structure drives global diversity of primates](https://doi.org/10.1111/1365-2656.12241)  
+  S. F. Gouveia, **Fabricio Villalobos**, R. Dobrovolski, R. Beltrao-Mendes, S. F. Ferrari  
+  *Journal of Animal Ecology* (2014)
+
+- [Latitudinal gradients of genus richness and endemism and the diversification of New World bats](https://doi.org/10.1111/ecog.00720)  
+  H. T. Arita, J. Vargas-Baron, **Fabricio Villalobos**  
+  *Ecography* (2014)
+
+- [Body Size, Extinction Risk and Knowledge Bias in New World Snakes](https://doi.org/10.1371/journal.pone.0113429)  
+  B. Vilela, **Fabricio Villalobos**, M. A. Rodriguez, L. C. Terribile  
+  *PLoS One* (2014)
+
+---
+
+### 2013
+
+- [Range-diversity plots for conservation assessments: Using richness and rarity in priority setting](https://doi.org/10.1016/j.biocon.2012.10.002)  
+  **Fabricio Villalobos**, A. Lira-Noriega, J. Soberon, H. T. Arita  
+  *Biological Conservation* (2013)
+
+- [Is Rich and Rare the Common Share? Describing Biodiversity Patterns to Inform Conservation Practices for South American Anurans](https://doi.org/10.1371/journal.pone.0056073)  
+  **Fabricio Villalobos**, R. Dobrovolski, D. B. Provete, S. F. Gouveia  
+  *PLoS One* (2013)
+
+- [Phylogenetic fields of species: cross-species patterns of phylogenetic structure and geographical coexistence](https://doi.org/10.1098/rspb.2012.2570)  
+  **Fabricio Villalobos**, T. F. Rangel, J. A. F. Diniz-Filho  
+  *Proceedings of the Royal Society B* (2013)
+
+---
+
+### 2011
+
+- [The crucial role of the accessible area in ecological niche modeling and species distribution modeling](https://doi.org/10.1016/j.ecolmodel.2011.02.011)  
+  N. Barve, V. Barve, A. Jimenez-Valverde, A. Lira-Noriega, S. P. Maher, A. T. Peterson, J. Soberon, **Fabricio Villalobos**  
+  *Ecological Modelling* (2011)
+
+---
+
+### 2010
+
+- [The diversity field of New World leaf-nosed bats (Phyllostomidae)](https://doi.org/10.1111/j.1466-8238.2009.00503.x)  
+  **Fabricio Villalobos**, H. T. Arita  
+  *Global Ecology and Biogeography* (2010)

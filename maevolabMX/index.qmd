@@ -1,0 +1,166 @@
+---
+pagetitle: "maevolabMX"
+page-layout: custom
+toc: false
+---
+
+::: {.hero-section}
+::: {.section-block}
+
+## Bienvenid@s al Laboratorio de Macroecología Evolutiva
+
+Nuestro laboratorio se enfoca en la intersección entre la macroecología y la macroevolución, considerando patrones macroecológicos bajo una perspectiva evolutiva junto con patrones y procesos evolutivos en un contexto espacial. Estamos ubicados en la <a href="https://www.inecol.mx/index.php/ciencia/redes-academicas/biologia-evolutiva">Red de Biología Evolutiva</a> del <a href="https://www.inecol.mx/">Instituto de Ecología A.C. - INECOL, México</a>. También somos parte del <a href="https://ecoevol.ufg.br/">Programa de Posgrado en Ecología y Evolución de la Universidade Federal de Goiás (UFG), Brasil</a>. Apoyamos la <a href="https://peeer.net">iniciativa PEEER para un sistema de publicación científica equitativa y ética</a>.
+
+:::
+:::
+
+::: {.parallax-container}
+::: {.parallax-bg-1}
+::: {.section-block .parallax-text}
+
+<div class="parallax-identity">
+<div class="parallax-identity-left">
+<img src="images/logo.png" class="lab-logo" alt="Logo maevolabMX"/>
+<div class="social-links">
+<a href="https://www.facebook.com/maevolabMX/" aria-label="Facebook"><i class="bi bi-facebook"></i></a>
+<a href="https://github.com/fabro" aria-label="GitHub"><i class="bi bi-github"></i></a>
+</div>
+</div>
+<div class="parallax-identity-right">
+
+## Macroecología · Macroevolución · Biogeografía
+
+Integramos teoría y métodos macroecológicos con enfoques filogenéticos para comprender los patrones geográficos de biodiversidad y las causas que los originan, mantienen y alteran.
+
+</div>
+</div>
+
+:::
+:::
+:::
+
+::: {.section-text}
+::: {.section-block}
+
+## Investigación
+
+Nuestros intereses de investigación abarcan los campos de la macroecología, macroevolución, biogeografía, ecología comunitaria, ecofilogenética y biología de la conservación. Trabajamos principalmente con vertebrados, pero también con insectos y plantas.
+
+- Macroecología
+- Biogeografía
+- Macroevolución
+- Biogeografía de la Conservación
+- Estadísticas Espaciales
+- Métodos Comparativos Filogenéticos
+
+[Ver investigación →](investigacion.qmd){.btn .btn-outline-primary .mt-3}
+
+:::
+:::
+
+::: {.section-text}
+::: {.section-block}
+
+## Proyectos
+
+::: {.project-grid}
+
+::: {.project-card}
+### [(Macro)ecología Evolutiva](proyecto-macroecologia.qmd)
+Patrones macroecológicos bajo una perspectiva evolutiva, integrando ecología, biogeografía y filogenia.
+[Más detalles →](proyecto-macroecologia.qmd){.btn .btn-sm .btn-outline-primary .mt-1}
+:::
+
+::: {.project-card}
+### [Macroevolución](proyecto-macroevolucion.qmd)
+Procesos evolutivos de especiación, extinción y dispersión que moldean la diversidad a escala global.
+[Más detalles →](proyecto-macroevolucion.qmd){.btn .btn-sm .btn-outline-primary .mt-1}
+:::
+
+::: {.project-card}
+### [Biogeografía de la Conservación](proyecto-consbiogeo.qmd)
+Análisis macroecológicos aplicados a la planificación para la conservación y la identificación de brechas de conocimiento.
+[Más detalles →](proyecto-consbiogeo.qmd){.btn .btn-sm .btn-outline-primary .mt-1}
+:::
+
+::: {.project-card}
+### [Macroecología de Interacciones](proyecto-interacciones.qmd)
+Redes ecológicas y su variación a través de gradientes geográficos y climáticos.
+[Más detalles →](proyecto-interacciones.qmd){.btn .btn-sm .btn-outline-primary .mt-1}
+:::
+
+:::
+
+[Ver todos los proyectos →](proyectos.qmd){.btn .btn-outline-primary .mt-2}
+
+:::
+:::
+
+::: {.parallax-container}
+::: {.parallax-bg-1}
+::: {.section-block .parallax-text .parallax-text-left}
+
+## Publicaciones recientes
+
+- [The latitudinal speciation gradient in freshwater fishes](https://doi.org/10.1371/journal.pone.0338966)  
+  **Juliana Herrera-Pérez** et al. — *PLoS One* (2026)
+
+- [Payment-based open access is biasing scientific participation from the Global South in ecology](https://doi.org/10.1002/oik.11867)  
+  P. Y. Huais, **Fabricio Villalobos** et al. — *Oikos* (2026)
+
+- [Advances in the Biogeography of Neotropical Mammals](https://doi.org/10.1007/978-3-031-43163-0_25-1)  
+  **Luis D. Verde Arregoitia**, **Fabricio Villalobos** — *Mammals of Middle and South America. Springer* (2026)
+
+- [Evolutionary Responses to Climate Change](https://doi.org/10.1016/B978-0-443-15750-9.00094-X)  
+  **Fabricio Villalobos** et al. — *Encyclopedia of Evolutionary Biology, 2nd ed.* (2026)
+
+- [Prevalence and patterns of convergent ecomorphological evolution in rodents](https://doi.org/10.1093/biolinnean/blaf122)  
+  **Luis D. Verde Arregoitia**, **Fabricio Villalobos** et al. — *Biological Journal of the Linnean Society* (2025)
+
+[Ver todas las publicaciones →](publicaciones.qmd){.btn .btn-outline-light .mt-3}
+
+:::
+:::
+:::
+
+::: {.parallax-container}
+::: {.parallax-bg-2}
+::: {.section-block .parallax-text}
+
+## Nuestro Equipo
+
+<div class="team-preview-grid">
+  <div class="team-preview-label">Investigadores Principales</div>
+  <div class="team-preview-card"><img src="images/equipo/fabro.png" class="team-preview-photo" alt="Fabricio Villalobos"/><span class="team-preview-name">Fabricio Villalobos</span></div>
+  <div class="team-preview-card"><img src="images/equipo/luis.jpg" class="team-preview-photo" alt="Luis D. Verde Arregoitia"/><span class="team-preview-name">Luis D. Verde Arregoitia</span></div>
+  <div class="team-preview-label">Investigadores</div>
+  <div class="team-preview-card"><img src="images/equipo/gabriel.jpeg" class="team-preview-photo" alt="Gabriel Moulatlet"/><span class="team-preview-name">Gabriel Moulatlet</span></div>
+  <div class="team-preview-card"><img src="images/equipo/carmen.png" class="team-preview-photo" alt="Carmen Galán Acedo"/><span class="team-preview-name">Carmen Galán Acedo</span></div>
+  <div class="team-preview-card"><img src="images/equipo/jessica.jpg" class="team-preview-photo" alt="Jessica Falcão"/><span class="team-preview-name">Jessica Falcão</span></div>
+  <div class="team-preview-label">Estudiantes de Posgrado</div>
+  <div class="team-preview-card"><img src="images/equipo/alex.png" class="team-preview-photo" alt="Alejandro Sánchez"/><span class="team-preview-name">Alejandro Sánchez</span></div>
+  <div class="team-preview-card"><img src="images/equipo/carlos.jpg" class="team-preview-photo" alt="Carlos Marín"/><span class="team-preview-name">Carlos Marín</span></div>
+  <div class="team-preview-card"><img src="images/equipo/daniel.jpg" class="team-preview-photo" alt="Daniel Valencia"/><span class="team-preview-name">Daniel Valencia</span></div>
+  <div class="team-preview-card"><img src="images/equipo/diana.jpeg" class="team-preview-photo" alt="Diana M. Ochoa-Sanz"/><span class="team-preview-name">Diana M. Ochoa-Sanz</span></div>
+  <div class="team-preview-card"><img src="images/equipo/gerardo.jpg" class="team-preview-photo" alt="Gerardo Dirzo"/><span class="team-preview-name">Gerardo Dirzo</span></div>
+  <div class="team-preview-card"><img src="images/equipo/juliana.jpeg" class="team-preview-photo" alt="Juliana Herrera"/><span class="team-preview-name">Juliana Herrera</span></div>
+  <div class="team-preview-card"><img src="images/equipo/kevin.jpg" class="team-preview-photo" alt="Kevin López Reyes"/><span class="team-preview-name">Kevin López Reyes</span></div>
+  <div class="team-preview-card"><img src="images/equipo/martin.jpg" class="team-preview-photo" alt="Martin Cabrera"/><span class="team-preview-name">Martin Cabrera</span></div>
+  <div class="team-preview-card"><img src="images/equipo/roberto.jpg" class="team-preview-photo" alt="Roberto Ruiz"/><span class="team-preview-name">Roberto Ruiz</span></div>
+  <div class="team-preview-card"><img src="images/equipo/monse.jpg" class="team-preview-photo" alt="Monserrat Juárez"/><span class="team-preview-name">Monserrat Juárez</span></div>
+</div>
+
+[Ver equipo completo →](equipo.qmd){.btn .btn-outline-light .mt-2}
+
+:::
+:::
+:::
+
+::: {.section-text}
+::: {.section-block .contact-block}
+
+<p><i class="bi bi-geo-alt-fill"></i> Carretera Antigua a Coatepec 351, Xalapa, Veracruz 91073<br>Campus 1, Edificio C, Tercer Piso</p>
+<p><i class="bi bi-telephone-fill"></i> +52 228 8141800 ext. 3019 &amp; 3020</p>
+
+:::
+:::

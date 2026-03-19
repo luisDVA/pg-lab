@@ -1,0 +1,13 @@
+website:
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: investigacion.qmd
+        text: Research
+      - href: proyectos.qmd
+        text: Projects
+      - href: equipo.qmd
+        text: Team
+      - href: publicaciones.qmd
+        text: Publications

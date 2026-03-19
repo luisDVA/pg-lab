@@ -1,0 +1,382 @@
+/* maevolabMX custom styles */
+
+@import url(https://fonts.bunny.net/css?family=almarai:300);
+
+body {
+  font-family: 'Almarai', sans-serif;
+}
+
+/* ── Home page: logo & social links ────────────────────── */
+
+/* ── Home page: team preview ───────────────────────────── */
+
+.team-preview-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem 1.25rem;
+  margin: 1.5rem 0;
+}
+
+.team-preview-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 80px;
+}
+
+.team-preview-photo {
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid rgba(255, 255, 255, 0.55);
+  margin-bottom: 0.4rem;
+}
+
+.team-preview-name {
+  font-size: 0.7rem;
+  color: rgba(255, 255, 255, 0.88);
+  text-align: center;
+  line-height: 1.25;
+}
+
+.team-preview-label {
+  width: 100%;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.55);
+  text-align: center;
+  margin: 1rem 0 0.25rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+  padding-top: 0.75rem;
+}
+
+.team-preview-label:first-child {
+  border-top: none;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.parallax-identity {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+.parallax-identity-left {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.parallax-identity-right {
+  flex: 1;
+}
+
+.lab-logo {
+  display: block;
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid rgba(255, 255, 255, 0.6);
+  margin-bottom: 0.75rem;
+}
+
+.social-links {
+  font-size: 1.6rem;
+}
+
+.social-links a {
+  color: rgba(255, 255, 255, 0.85);
+  margin: 0 0.4rem;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.social-links a:hover {
+  color: #ffffff;
+}
+
+@media (max-width: 576px) {
+  .parallax-identity {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
+/* ── Home page: contact block ───────────────────────────── */
+
+.contact-block p {
+  margin-bottom: 0.5rem;
+  font-size: 0.95rem;
+}
+
+.contact-block i {
+  margin-right: 0.5rem;
+  color: var(--bs-primary);
+}
+
+/* ── Team page ─────────────────────────────────────────── */
+
+/* Responsive grid: 3 columns on wide screens, 2 on medium, 1 on mobile */
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+@media (max-width: 900px) {
+  .team-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 576px) {
+  .team-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Individual member card */
+.team-card {
+  background: var(--bs-secondary-bg);
+  border: 1px solid var(--bs-border-color);
+  border-radius: 8px;
+  padding: 1.25rem;
+  text-align: center;
+}
+
+.team-card h3 {
+  margin-top: 0.75rem;
+  margin-bottom: 0.25rem;
+  font-size: 1rem;
+  border-bottom: none;
+}
+
+.team-card p {
+  font-size: 0.875rem;
+  margin-bottom: 0.4rem;
+}
+
+.team-card a {
+  font-size: 0.8rem;
+}
+
+/* Circular avatar photo */
+.team-photo {
+  width: 120px !important;
+  height: 120px !important;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid var(--bs-border-color);
+  display: block;
+  margin: 0 auto;
+}
+
+/* ── Publications page ─────────────────────────────────── */
+
+/* Add spacing between publication entries */
+#quarto-document-content ul li {
+  margin-bottom: 0.75rem;
+}
+
+/* Soften journal names */
+#quarto-document-content em {
+  color: var(--bs-secondary-color);
+}
+
+/* Year section headings */
+h3 {
+  margin-top: 2rem;
+  border-bottom: 2px solid var(--bs-border-color);
+  padding-bottom: 0.25rem;
+}
+
+/* ── Home page parallax ────────────────────────────────── */
+
+.hero-section {
+  position: relative;
+  padding: 5rem 1.5rem 4rem;
+  background-image: url('images/feature/collatz_light_n20.png');
+  background-size: cover;
+  background-position: center;
+}
+
+.hero-section::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(255, 255, 255, 0.75);
+  pointer-events: none;
+}
+
+.quarto-dark .hero-section {
+  background-image: url('images/feature/collatz_dark_n20.png');
+}
+
+.quarto-dark .hero-section::before {
+  background: rgba(0, 0, 0, 0.55);
+}
+
+.hero-section .section-block {
+  position: relative;
+  z-index: 1;
+}
+
+.hero-section h2 {
+  border-bottom: none;
+  font-size: 1.8rem;
+  margin-bottom: 1.25rem;
+}
+
+.parallax-container {
+  width: 100%;
+  overflow: hidden;
+}
+
+/* Band 1: deep forest green */
+.parallax-bg-1 {
+  background-image:
+    repeating-linear-gradient(
+      45deg,
+      rgba(255,255,255,0.03) 0px,
+      rgba(255,255,255,0.03) 1px,
+      transparent 1px,
+      transparent 14px
+    ),
+    linear-gradient(150deg, #1b3a2a 0%, #0d2418 60%, #162e22 100%);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: auto, cover;
+  padding: 5rem 1.5rem;
+  color: #d8f0e2;
+}
+
+/* Band 2: deep ocean blue */
+.parallax-bg-2 {
+  background-image:
+    repeating-linear-gradient(
+      -45deg,
+      rgba(255,255,255,0.03) 0px,
+      rgba(255,255,255,0.03) 1px,
+      transparent 1px,
+      transparent 14px
+    ),
+    linear-gradient(150deg, #0d1f3c 0%, #07142a 60%, #0f1e38 100%);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: auto, cover;
+  padding: 5rem 1.5rem;
+  color: #d6e4f5;
+}
+
+.parallax-text {
+  text-align: center;
+}
+
+.parallax-text-left,
+.parallax-text-left p,
+.parallax-text-left li {
+  text-align: left;
+}
+
+.parallax-text-left p {
+  margin: 0;
+}
+
+.parallax-text h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  color: inherit;
+  margin-bottom: 1rem;
+  border-bottom: none;
+}
+
+.parallax-text p {
+  font-size: 1.1rem;
+  opacity: 0.85;
+  max-width: 700px;
+  margin: 0 auto 0;
+}
+
+.section-text {
+  padding: 3.5rem 1.5rem;
+}
+
+.section-block {
+  max-width: 900px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+.section-block h2 {
+  border-bottom: none;
+  margin-bottom: 1rem;
+}
+
+/* Disable fixed attachment on mobile — iOS Safari ignores it anyway */
+@media (max-width: 768px) {
+  .parallax-bg-1,
+  .parallax-bg-2 {
+    background-attachment: scroll;
+  }
+}
+
+/* ── Projects page ──────────────────────────────────────── */
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+@media (max-width: 700px) {
+  .project-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.project-card {
+  background: var(--bs-secondary-bg);
+  border: 1px solid var(--bs-border-color);
+  border-left: 4px solid var(--bs-primary);
+  border-radius: 8px;
+  padding: 1.5rem;
+}
+
+.project-card h3 {
+  font-size: 1.1rem;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  border-bottom: none;
+}
+
+.project-card p {
+  font-size: 0.9rem;
+  color: var(--bs-secondary-color);
+  margin-bottom: 1rem;
+}
+
+.project-img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+  display: block;
+}
+
+/* ── General ───────────────────────────────────────────── */
+
+/* Separator lines */
+hr {
+  border-top: 1px solid var(--bs-border-color);
+  margin: 2rem 0;
+}
