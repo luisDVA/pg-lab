@@ -1,9 +1,14 @@
 /* maevolabMX custom styles */
 
 @import url(https://fonts.bunny.net/css?family=almarai:300);
+@import url(https://fonts.bunny.net/css?family=figtree:400,600,700);
 
 body {
   font-family: 'Almarai', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Figtree', sans-serif;
 }
 
 /* ── Home page: logo & social links ────────────────────── */
@@ -403,4 +408,21 @@ hr {
 .quarto-dark .team-card p,
 [data-bs-theme="dark"] .team-card p {
   color: var(--bs-body-color);
+}
+/* ── Language toggle note ───────────────────────────────── */
+
+.language-note {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  border-left: 3px solid var(--bs-primary);
+  background: var(--bs-primary-bg-subtle);
+  border-radius: 0 6px 6px 0;
+  font-size: 0.9rem;
+  color: #000000;
+  font-style: italic;
+}
+
+.language-note i {
+  margin-right: 0.4rem;
 }
