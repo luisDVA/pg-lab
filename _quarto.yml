@@ -32,7 +32,7 @@ babelquarto:
     text: "Español"
   mainlanguage: 'es'
   languages: ['en']
-title-en: "pg-lab"
+title-en: "maevolab"
 description-en: description in en
 author-en: author in en
 lang: es

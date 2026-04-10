@@ -104,11 +104,20 @@ Redes ecológicas y su variación a través de gradientes geográficos y climát
 
 ## Publicaciones recientes
 
+- [Species range shifts often speed
+ahead of their modeled climatic niches. Proceedings of the National Academy of Sciences](https://doi.org/10.1073/pnas.2515903123)  
+ Oliveira, B. F., Bertrand, R., Pinsky, M. L., Casajus, N., Wolfe, B. W., Scheffers, B. R., **Villalobos, F.** ... & Comte, L. _Proceedings of the National Academy of
+Sciences_ (2026) 
+
+- [Genetic Diversity Impacts Climate‐Induced Species Range Shifts](https://doi.org/10.1111/ele.70345)    
+Oliveira, B. F., Bertrand, R., Comte, L., Lenoir, J., Grenouillet, G., Lancaster, L.
+T., ... **Villalobos, F**... & Rolland, J. _Ecology Letters_ (2026) 
+
 - [The latitudinal speciation gradient in freshwater fishes](https://doi.org/10.1371/journal.pone.0338966)  
   **Juliana Herrera-Pérez** et al. — *PLoS One* (2026)
 
 - [Payment-based open access is biasing scientific participation from the Global South in ecology](https://doi.org/10.1002/oik.11867)  
-  P. Y. Huais, **Fabricio Villalobos** et al. — *Oikos* (2026)
+  P. Y. Huais, **Fabricio Villalobos** et al. — *Oikos*  (2026)
 
 - [Advances in the Biogeography of Neotropical Mammals](https://doi.org/10.1007/978-3-031-43163-0_25-1)  
   **Luis D. Verde Arregoitia**, **Fabricio Villalobos** — *Mammals of Middle and South America. Springer* (2026)

@@ -191,6 +191,22 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 auto;
 }
 
+/* Individual member profile tags (Interests) */
+.profile-tag {
+  display: inline-block;
+  /* Improve contrast in light theme */
+  background-color: var(--bs-secondary-bg-subtle);
+  color: var(--bs-body-color);
+  border: 1px solid var(--bs-border-color);
+  border-radius: 6px;
+  padding: 0.15rem 0.6rem;
+  margin: 0.1rem 0.1rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  line-height: 1.2;
+  vertical-align: middle;
+}
+
 /* ── Publications page ─────────────────────────────────── */
 
 /* Add spacing between publication entries */
@@ -408,6 +424,14 @@ hr {
 .quarto-dark .team-card p,
 [data-bs-theme="dark"] .team-card p {
   color: var(--bs-body-color);
+}
+
+.quarto-dark .profile-tag,
+[data-bs-theme="dark"] .profile-tag {
+  /* Dark theme: stronger contrast for text and border */
+  background-color: var(--bs-tertiary-bg);
+  color: var(--bs-light);
+  border-color: var(--bs-border-color);
 }
 /* ── Language toggle note ───────────────────────────────── */
 
