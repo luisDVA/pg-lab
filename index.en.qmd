@@ -9,9 +9,9 @@ toc: false
 
 ## Welcome to the Evolutionary Macroecology Lab
 
-Our lab focuses on the intersection between macroecology and macroevolution, considering macroecological patterns under an evolutionary perspective and evolutionary patterns and processes in a spatial context. We are based at the <a href="https://www.inecol.mx/index.php/ciencia/redes-academicas/biologia-evolutiva">Evolutionary Biology Network</a> of <a href="https://www.inecol.mx/">Instituto de Ecología A.C. - INECOL, Mexico</a>. We are also part of the <a href="https://ecoevol.ufg.br/">Ecology & Evolution Graduate Program of the Universidade Federal de Goiás (UFG), Brazil</a>. We support the <a href="https://peeer.net">PEEER initiative for a #BetterPublishing system</a>.
+Research in our lab focuses on the intersection between macroecology and macroevolution, considering macroecological patterns under an evolutionary perspective and evolutionary patterns and processes in a spatial context. We are based at the <a href="https://www.inecol.mx/index.php/ciencia/redes-academicas/red-de-biologia-evolutiva">Evolutionary Biology Network</a> of <a href="https://www.inecol.mx/">Instituto de Ecología A.C. - INECOL, Mexico</a>. We are also part of the <a href="https://ecoevol.ufg.br/">Ecology & Evolution Graduate Program of the Universidade Federal de Goiás (UFG), Brazil</a>. We support the <a href="https://peeer.net">PEEER initiative for a #BetterPublishing system</a>.
 
-<p class="language-note"><i class="bi bi-translate"></i> This site is available in English and Spanish. Use the flag button in the navigation bar to switch languages.</p>
+<p class="language-note"><i class="bi bi-translate"></i> Este sitio está disponible en español e inglés. Usa el botón con la bandera en la barra de navegación para cambiar de idioma.</p>
 
 :::
 :::
@@ -46,13 +46,12 @@ We integrate macroecological theory and methods with phylogenetic approaches to 
 
 ## Research
 
-Our research interests span macroecology, macroevolution, biogeography, community ecology, ecophylogenetics, and conservation biology. We work primarily with vertebrates, but also with insects and plants.
+Our research interests span macroecology, macroevolution, biogeography, community ecology, ecophylogenetics, and conservation biology. We work with different taxa, with focus on vertebrates.
 
 - Macroecology
 - Biogeography
 - Macroevolution
 - Conservation Biogeography
-- Spatial Statistics
 - Phylogenetic Comparative Methods
 
 [View research →](investigacion.qmd){.btn .btn-outline-primary .mt-3}
@@ -104,6 +103,14 @@ Ecological networks and their variation across geographic and climatic gradients
 
 ## Recent Publications
 
+- [Phylogenetic Patterns in Hunting and Extinction Risk in Primates](https://doi.org/10.1111/acv.70068)  
+  **Luis D. Verde Arregoitia**, **Carmen Galán-Acedo**, K. A.-I. Nekaris, P. A. Garber, M. F. Hansen, J. C. Bicca-Marques, M. S. Svensson, V. Nijman, S. Shanee, A. Chaudhary, A. Estrada, R. Dobrovolski, S. F. Gouveia, **Fabricio Villalobos**  
+  *Animal Conservation* (2026)
+
+- [Climatic niche properties shape treefrog diversity](https://doi.org/10.1371/journal.pone.0348700)  
+  F. A. Toro-Cardona, J. A. Velasco, J. Pinto-Ledezma, S. M. Rovito, **Fabricio Villalobos**, O. R. Rojas-Soto, J. L. Parra  
+  *PLoS ONE* (2026)
+
 - [Species range shifts often speed
 ahead of their modeled climatic niches. Proceedings of the National Academy of Sciences](https://doi.org/10.1073/pnas.2515903123)  
  Oliveira, B. F., Bertrand, R., Pinsky, M. L., Casajus, N., Wolfe, B. W., Scheffers, B. R., **Villalobos, F.** ... & Comte, L. _Proceedings of the National Academy of
@@ -122,12 +129,6 @@ T., ... **Villalobos, F**... & Rolland, J. _Ecology Letters_ (2026)
 - [Advances in the Biogeography of Neotropical Mammals](https://doi.org/10.1007/978-3-031-43163-0_25-1)  
   **Luis D. Verde Arregoitia**, **Fabricio Villalobos** — *Mammals of Middle and South America. Springer* (2026)
 
-- [Evolutionary Responses to Climate Change](https://doi.org/10.1016/B978-0-443-15750-9.00094-X)  
-  **Fabricio Villalobos** et al. — *Encyclopedia of Evolutionary Biology, 2nd ed.* (2026)
-
-- [Prevalence and patterns of convergent ecomorphological evolution in rodents](https://doi.org/10.1093/biolinnean/blaf122)  
-  **Luis D. Verde Arregoitia**, **Fabricio Villalobos** et al. — *Biological Journal of the Linnean Society* (2025)
-
 [View all publications →](publicaciones.qmd){.btn .btn-outline-light .mt-3}
 
 :::
@@ -142,13 +143,18 @@ T., ... **Villalobos, F**... & Rolland, J. _Ecology Letters_ (2026)
 
 <div class="team-preview-grid">
   <div class="team-preview-label">Principal Investigators</div>
+  <div class="team-preview-row">
   <a href="personas/fabro.html" class="team-preview-card"><img src="images/equipo/fabro.png" class="team-preview-photo" alt="Fabricio Villalobos"/><span class="team-preview-name">Fabricio Villalobos</span></a>
   <a href="personas/luis.html" class="team-preview-card"><img src="images/equipo/luis.jpg" class="team-preview-photo" alt="Luis D. Verde Arregoitia"/><span class="team-preview-name">Luis D. Verde Arregoitia</span></a>
+  </div>
   <div class="team-preview-label">Researchers</div>
+  <div class="team-preview-row">
   <a href="personas/gabriel.html" class="team-preview-card"><img src="images/equipo/gabriel.jpeg" class="team-preview-photo" alt="Gabriel Moulatlet"/><span class="team-preview-name">Gabriel Moulatlet</span></a>
   <a href="personas/carmen.html" class="team-preview-card"><img src="images/equipo/carmen.png" class="team-preview-photo" alt="Carmen Galán Acedo"/><span class="team-preview-name">Carmen Galán Acedo</span></a>
   <a href="personas/jessica.html" class="team-preview-card"><img src="images/equipo/jessica.jpg" class="team-preview-photo" alt="Jessica Falcão"/><span class="team-preview-name">Jessica Falcão</span></a>
+  </div>
   <div class="team-preview-label">Graduate Students</div>
+  <div class="team-preview-row">
   <a href="personas/alex.html" class="team-preview-card"><img src="images/equipo/alex.png" class="team-preview-photo" alt="Alejandro Sánchez"/><span class="team-preview-name">Alejandro Sánchez</span></a>
   <a href="personas/carlos.html" class="team-preview-card"><img src="images/equipo/carlos.jpg" class="team-preview-photo" alt="Carlos Marín"/><span class="team-preview-name">Carlos Marín</span></a>
   <a href="personas/daniel.html" class="team-preview-card"><img src="images/equipo/daniel.jpg" class="team-preview-photo" alt="Daniel Valencia"/><span class="team-preview-name">Daniel Valencia</span></a>
@@ -159,6 +165,7 @@ T., ... **Villalobos, F**... & Rolland, J. _Ecology Letters_ (2026)
   <a href="personas/martin.html" class="team-preview-card"><img src="images/equipo/martin.jpg" class="team-preview-photo" alt="Martin Cabrera"/><span class="team-preview-name">Martin Cabrera</span></a>
   <a href="personas/roberto.html" class="team-preview-card"><img src="images/equipo/roberto.jpg" class="team-preview-photo" alt="Roberto Ruiz"/><span class="team-preview-name">Roberto Ruiz</span></a>
   <a href="personas/monse.html" class="team-preview-card"><img src="images/equipo/monse.jpg" class="team-preview-photo" alt="Monserrat Juárez"/><span class="team-preview-name">Monserrat Juárez</span></a>
+  </div>
 </div>
 
 [Meet the full team →](equipo.qmd){.btn .btn-outline-light .mt-2}
